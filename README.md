@@ -12,22 +12,6 @@ JetSetGo
 ### Project Description  
 JetSetGo is a Travel and Tourism Web Application. A registered user will be able to log in and book flights and/or hotels to their destination. An admin user will need to log in with the proper admin credentials - they can view all registered users and their bookings, and manage flight and hotel information.
 
-## Team
-
-Team details follow
-
-### 495 Students
-
-Chanel Elmurr, Paul Moskalyuk, Allison Zawodniak
-
-### 394 Students - Senior/Lead Developer
-
-Fabian Abarca
-
-### 294 Students - Junior Developer
-
-Delines Diaz
-
 ## Prerequisites
 
 Frontend - Next.js (React based), Node.js v18.18 (or higher), Visual Studio Code <br />
